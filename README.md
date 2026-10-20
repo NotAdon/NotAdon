@@ -111,9 +111,9 @@ As co-owner of **Avalon Development**, a gamemode and plugin development studio,
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| [**Project Name**](https://github.com/devnootnoot/REPO) | One sentence on what it does and the problem it solves. | Java, MySQL |
-| [**Project Name**](https://github.com/devnootnoot/REPO) | One sentence on what it does and the problem it solves. | Java, MongoDB |
-| [**Project Name**](https://github.com/devnootnoot/REPO) | One sentence on what it does and the problem it solves. | Java, React |
+| [**OneVOneSystem**](https://github.com/NotAdon/OneVOneSystem) | An easy-to-configure 1v1 duels system built on MultiverseCore, with a regenerative duels map. | Java, Gradle, MultiverseCore |
+| [**CustomAbilties**](https://github.com/NotAdon/CustomAbilties) | A custom abilities system for gamemodes. | Java, Gradle |
+| [**guild-upgrades**](https://github.com/NotAdon/guild-upgrades) | A guild upgrade system for gamemodes. | Java, Gradle |
 
 ---
 
@@ -121,8 +121,8 @@ As co-owner of **Avalon Development**, a gamemode and plugin development studio,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devnootnoot&show_icons=true&bg_color=0d1117&title_color=e05266&icon_color=e05266&text_color=c9d1d9&border_color=374b59&hide_border=true&count_private=true&custom_title=Adon%27s%20GitHub%20Stats" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnootnoot&layout=compact&bg_color=0d1117&title_color=e05266&icon_color=e05266&text_color=c9d1d9&border_color=374b59&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NotAdon&show_icons=true&bg_color=0d1117&title_color=e05266&icon_color=e05266&text_color=c9d1d9&border_color=374b59&hide_border=true&count_private=true&custom_title=Adon%27s%20GitHub%20Stats" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdon&layout=compact&bg_color=0d1117&title_color=e05266&icon_color=e05266&text_color=c9d1d9&border_color=374b59&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages"/>
 
 </div>
 
